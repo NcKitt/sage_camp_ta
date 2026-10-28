@@ -9,4 +9,4 @@
 ## รายชื่อ
 
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
-- nithirun
+- nithirun Data Engineer
