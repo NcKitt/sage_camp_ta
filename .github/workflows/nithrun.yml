@@ -1,5 +1,4 @@
-```yml
-name: CI
+name: Nithirun CI
 
 on:
   pull_request:
